@@ -1,4 +1,4 @@
-class Week2Answers {
+class Section2Answers {
   public static void main(String[] args) {
     // Activity 1: Primitive Variable Assignment
     int myInt = 5;

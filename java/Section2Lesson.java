@@ -1,4 +1,4 @@
-class Week2Lesson {
+class Section2Lesson {
   public static void main(String[] args) {
     // Introduction to Primitive Data Types:
     System.out.println("Primitive Data Types");

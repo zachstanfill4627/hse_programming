@@ -1,4 +1,4 @@
-class Week2Activities {
+class Section2Activities {
   public static void main(String[] args) {
     // Activity 1: Primitive Variable Assignment
 
