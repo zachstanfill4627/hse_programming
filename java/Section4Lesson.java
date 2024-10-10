@@ -1,4 +1,4 @@
-public class Subject4Lesson {
+public class Section4Lesson {
 
   public static void main(String[] args) {
     // Conditional Programming
