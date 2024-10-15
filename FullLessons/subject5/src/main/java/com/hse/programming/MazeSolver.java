@@ -1,4 +1,4 @@
-package com.com.hse.programming;
+package com.hse.programming;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -16,8 +16,7 @@ public class MazeSolver {
   public static void main(String[] args) throws UnexpectedException {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Enter maze filename (without .txt): ");
-    //String filename = scanner.nextLine();
-    String filename = "Maze2";
+    String filename = scanner.nextLine();
 
     loadMaze(filename);
     // Clear the console before printing the initial maze

@@ -1,4 +1,4 @@
-package com.com.hse.programming;
+package com.hse.programming;
 
 import java.util.Scanner;
 
