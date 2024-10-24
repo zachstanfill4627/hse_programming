@@ -1,0 +1,26 @@
+    // Activities
+
+    // ACTIVITY 1: Class discussion (NO CODE) - Think of things that we could use loops?
+    //  - Think about our day, its typically organized and structured the same every day
+    //  - Think about simpler things like eating - Food on plate, spoon to food, spoon to mount
+    //  - Think about putting on our shoes
+
+    // ACTIVITY 2: Class discussion (NO CODE) - Explain in basic terms the difference between
+    //                                          FOR and WHILE loops and when to use them
+    //   - FOR loops know the number of loops before starting
+    //   - WHILE loops typically determine when to stop based on something that breaks the loop
+
+    // ACTIVITY 3: Class Game - Jenga
+
+    // ACTIVITY 4: Try it out - Lets look the updated Home Lights Automation code
+      // 1. How many loop statements are there in the Automated Lights code?
+         //  - There is 1 WHILE loop that starts on line 42 and ends on Line 89
+      // 2. Why did we choose the looping method we did?
+         //  - Because this is for home automation and realistically would never stop looping
+
+    // ACTIVITY 5: Try it out - Lets checkout and run our MazeSolver code
+      // Although the logic is more complex that what we have seen so far, we can see that
+      // through the use of Loops and Conditionals, we can make a character move around a
+      // two-dimensional map from a starting point to an ending point.
+
+    // ACTIVITY 6: Come up with a unique use case for Looping that we see in our normal day
